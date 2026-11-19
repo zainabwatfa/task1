@@ -1,0 +1,11 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Simple Node.js ESM project with Tasks and Users modules",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
